@@ -29,5 +29,3 @@ Contributors
 @diyo: A teenager cyper security beginner and a meduim programer  
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-Feel free to modify the README as needed, adding more details, credits, or sections depending on your preferences and the needs of your project.
